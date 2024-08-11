@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import { FaPlus } from "react-icons/fa6";
 
 function Netflix() {
     const [details, setDetails] = useState({
